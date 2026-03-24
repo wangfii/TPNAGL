@@ -9,6 +9,19 @@ Software Environment
 
 **All required functions and dependencies are already included in this repository. After downloading the full project, the code can be used directly without additional installation.**
 
+'''
+Repository Structure
+├── ablation_study/ # Ablation experiment code
+├── datasets/ # Dataset used in the experiments
+├── funs/ # Functions required for the experiments
+├── maketu/ # Visualization scripts
+├── measure/ # Evaluation metric functions
+├── model/ # Experimental code (core model)
+├── res_test_opt1/ # Experimental results
+├── process.m # Optimization code
+└── README.md
+
+
 # Repository Structure
 - ablation_study/      # Ablation experiment code
 - datasets/            # Dataset used in the experiments
