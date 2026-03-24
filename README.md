@@ -67,7 +67,7 @@ The maximum number of iterations is set to Tₘₐₓ = 200, and the convergence
 | FPMVS     | Free parameter method                |                                                          |                                                         |      |
 | SFMC      | Free parameter method                |                                                          |                                                         |      |
 | EOMSC     | m=[1k 2k 3k 4k 5k 6k 7k]             | l=[1k 2k 3k 4k 5k 6k 7k]                                 |                                                         |      |
-| UDBGL     | m=[k,50,100,200]                     | $\alpha$=[$10^{-3}$,$10^{-2}$,$10^{-1}$,$\cdots$,$10^3$] | $\beta$=[$10^{-3}$,$10^{-2}$,$10^{-1}$,$\cdots$,$10^3$] |      |
+| UDBGL     | m=[k,50,100,200]                     | $\alpha$=[10^-3,10^-2,10^-1,...,10^3] | $\beta$=[10^-3,10^-2,10^-1,...,10^3] |      |
 | FastMICE  | p=min{1000,N}                        | $\tau_{v}^{m}=[0.2,0.8]$                                 | $k^{m}=[k,2k]$                                          |      |
 | RCAGL     | m=[1k 2k 3k]                         | $\lambda=[0,1,10^2,10^3,10^6]$                           |                                                         |      |
 | SMAGC     | m=[k,2k,5k]                          | $\lambda=[10^0,10^1,10^2,10^3]$                          |                                                         |      |
