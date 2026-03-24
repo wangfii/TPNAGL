@@ -10,15 +10,15 @@ Software Environment
 **All required functions and dependencies are already included in this repository. After downloading the full project, the code can be used directly without additional installation.**
 
 # Repository Structure
-├── ablation_study/ # Ablation experiment code
-├── datasets/ # Dataset used in the experiments
-├── funs/ # Functions required for the experiments
-├── maketu/ # Visualization scripts
-├── measure/ # Evaluation metric functions
-├── model/ # Experimental code (core model)
-├── res_test_opt1/ # Experimental results
-├── process.m # Optimization code
-└── README.md
+- ablation_study/      # Ablation experiment code
+- datasets/            # Dataset used in the experiments
+- funs/                # Functions required for the experiments
+- maketu/              # Visualization scripts
+- measure/             # Evaluation metric functions
+- model/               # Experimental code (core model)
+- res_test_opt1/       # Experimental results
+- process.m            # Optimization code
+- README.md
 
 ​	To reproduce the results in Tables 3–7, we first run the code corresponding to each dataset in the "`model/"` folder, for example, `run(MSRC_v1.m)`. All experimental results are then saved in the `res_test_opt1` folder. From these outputs, we select and record the performance values corresponding to the best parameter settings. For the baseline methods, we similarly execute their respective main scripts and record the performance under the optimal parameter settings. By collecting all these results, Tables 3–7 can be reproduced.
 
