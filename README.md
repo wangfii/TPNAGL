@@ -59,7 +59,7 @@ The maximum number of iterations is set to Tₘₐₓ = 200, and the convergence
 │   └── Runtime Evaluation
 │       └── All methods were benchmarked under the same hardware and software conditions
 
-![image-20260323160802202](G:\paper\paper_digit\TPNAGL\paper06\README.assets\image-20260323160802202.png)
+![image-20260323160802202](https://github.com/wangfii/TPNAGL/blob/main/README.assets/image-20260323160802202.png?raw=true)
 
 ##### baseline methods
 
