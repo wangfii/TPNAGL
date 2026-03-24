@@ -43,7 +43,7 @@ Note: To reduce the impact of randomness on the experimental results, all experi
 
 ###### Evaluation pipeline: anchor learning → tensor fusion → SVD → *k*-means. 
 
-![image-20260323152032712](G:\paper\paper_digit\TPNAGL\paper06\README.assets\image-20260323152032712.png)
+![image-20260323152032712](https://github.com/wangfii/TPNAGL/blob/main/Image/Algorithm.png?raw=true)
 
 The maximum number of iterations is set to Tₘₐₓ = 200, and the convergence threshold is ε = 1e-6. The stopping criterion is: $\|\mathcal{C}-\mathcal{J}\|_{\infty}\leq$ε or t >Tₘₐₓ
 
