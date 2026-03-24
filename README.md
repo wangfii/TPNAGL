@@ -46,8 +46,7 @@ Note: To reduce the impact of randomness on the experimental results, all experi
 
 The maximum number of iterations is set to Tₘₐₓ = 200, and the convergence threshold is ε = 1e-6. The stopping criterion is: $\|\mathcal{C}-\mathcal{J}\|_{\infty}\leq$ε or t >Tₘₐₓ
 
-##### Experimental runtime
-
+# Experimental runtime
 -Experimental Settings
   -Computational Environment
       -Device: Lenovo system
