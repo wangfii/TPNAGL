@@ -47,15 +47,15 @@ Note: To reduce the impact of randomness on the experimental results, all experi
 The maximum number of iterations is set to Tₘₐₓ = 200, and the convergence threshold is ε = 1e-6. The stopping criterion is: $\|\mathcal{C}-\mathcal{J}\|_{\infty}\leq$ε or t >Tₘₐₓ
 
 # Experimental runtime
--Experimental Settings
-  -Computational Environment
-      -Device: Lenovo system
-      -Operating System: Windows 11
-      -CPU: AMD Ryzen 7 4800H
-      -RAM: 32 GB
-      -GPU Acceleration: Not used
-  -Runtime Evaluation
-      -All methods were benchmarked under the same hardware and software conditions
+-Experimental Settings #
+  -Computational Environment #
+      -Device: Lenovo system #
+      -Operating System: Windows 11 #
+      -CPU: AMD Ryzen 7 4800H #
+      -RAM: 32 GB #
+      -GPU Acceleration: Not used #
+  -Runtime Evaluation #
+      -All methods were benchmarked under the same hardware and software conditions #
 
 ![image-20260323160802202](https://github.com/wangfii/TPNAGL/blob/main/README.assets/image-20260323160802202.png?raw=true)
 
