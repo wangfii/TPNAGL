@@ -9,19 +9,6 @@ Software Environment
 
 **All required functions and dependencies are already included in this repository. After downloading the full project, the code can be used directly without additional installation.**
 
-'''
-Repository Structure
-├── ablation_study/ # Ablation experiment code
-├── datasets/ # Dataset used in the experiments
-├── funs/ # Functions required for the experiments
-├── maketu/ # Visualization scripts
-├── measure/ # Evaluation metric functions
-├── model/ # Experimental code (core model)
-├── res_test_opt1/ # Experimental results
-├── process.m # Optimization code
-└── README.md
-
-
 # Repository Structure
 - ablation_study/      # Ablation experiment code
 - datasets/            # Dataset used in the experiments
@@ -60,15 +47,15 @@ Note: To reduce the impact of randomness on the experimental results, all experi
 The maximum number of iterations is set to Tₘₐₓ = 200, and the convergence threshold is ε = 1e-6. The stopping criterion is: $\|\mathcal{C}-\mathcal{J}\|_{\infty}\leq$ε or t >Tₘₐₓ
 
 # Experimental runtime
--Experimental Settings #
-  -Computational Environment #
-      -Device: Lenovo system #
-      -Operating System: Windows 11 #
-      -CPU: AMD Ryzen 7 4800H #
-      -RAM: 32 GB #
-      -GPU Acceleration: Not used #
-  -Runtime Evaluation #
-      -All methods were benchmarked under the same hardware and software conditions #
+- Experimental Settings
+  - Computational Environment
+    - Device: Lenovo system
+    - Operating System: Windows 11
+    - CPU: AMD Ryzen 7 4800H
+    - RAM: 32 GB
+    - GPU Acceleration: Not used
+  - Runtime Evaluation
+    - All methods were benchmarked under the same hardware and software conditions
 
 ![image-20260323160802202](https://github.com/wangfii/TPNAGL/blob/main/README.assets/image-20260323160802202.png?raw=true)
 
