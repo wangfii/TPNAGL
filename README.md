@@ -58,8 +58,8 @@ The maximum number of iterations is set to Tₘₐₓ = 200, and the convergence
     - All methods were benchmarked under the same hardware and software conditions
 
 ![image-20260323160802202](https://github.com/wangfii/TPNAGL/blob/main/README.assets/image-20260323160802202.png?raw=true)
-
-![image1](https://github.com/wangfii/TPNAGL/blob/main/Image/SMAGC_oom.png?raw=true)
+![image1](https://github.com/wangfii/TPNAGL/blob/main/Image/RCAGL_oom.png?raw=true)
+![image2](https://github.com/wangfii/TPNAGL/blob/main/Image/SMAGC_oom.png?raw=true)
 
 ##### baseline methods
 
