@@ -87,7 +87,7 @@ The maximum number of iterations is set to Tₘₐₓ = 200, and the convergence
 | Item                      | Description                        | Location                                                     |
 | ------------------------- | ---------------------------------- | ------------------------------------------------------------ |
 | Code                      | Full implementation                | GitHub repository:https://github.com/wangfii/TPNAGL.         |
-| Datasets                  | Download links and preparation     | Baidu Netdisk:**https://pan.baidu.com/s/1rQlnRUk14YilB6dFrbllNg?pwd=dtq3 提取码: dtq3** |
+| Datasets                  | Download links and preparation     | Baidu Netdisk:**https://pan.baidu.com/s/1rQlnRUk14YilB6dFrbllNg?pwd=dtq3 Access code: dtq3 (Valid permanently)** |
 | Experimental protocol     | Pipeline and optimization settings | Section 4                                                    |
 | Hyperparameters           | Ranges and selected values         | Section 5.1.2                                                |
 | Ablation studies          | Code and results                   | code：https://github.com/wangfii/TPNAGL. results:Section 5.10 |
